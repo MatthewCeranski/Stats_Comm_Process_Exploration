@@ -6,4 +6,5 @@ This project was a final project for my Intro to Python course (ECON 6118 at Mar
 
 ### Dataset
 **Iron Ore Refining using Flotation**
+
 https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
